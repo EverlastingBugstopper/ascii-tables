@@ -118,7 +118,7 @@ function createTable() {
     case "none":
         break;
     case "doubleslant":
-        // C++/C#/F#/Java/JavaScript/Swift
+        // C++/C#/F#/Java/JavaScript/Swift/Rust
         prefix = "// ";
         break;
     case "hash":
